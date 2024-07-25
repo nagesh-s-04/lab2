@@ -1,5 +1,5 @@
 print("mysore")
 print("vvce")
 
-print("new Branch - master")
+print("new Branch - main")
 print("master commit-3")
